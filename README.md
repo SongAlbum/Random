@@ -6,7 +6,7 @@
 
 `ONLINE` *or* `OFFLINE`
 
-• [Wali Band Yank.mp3](https://github.com/SongAlbum/Random/raw/refs/heads/main/pop/Yank.mp3)
+• [Wali Band Yank.mp3](https://github.com/SongAlbum/Random/raw/refs/heads/main/pop/Wali%20Band-Yank.mp3)
 
 ~~~
 <audio src="Link Or Name.mp3" controls></audio>
